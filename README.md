@@ -5,6 +5,6 @@ Under 'data', the two anonymised datasets used in the statistical analyses of th
 
 Under 'code', the python scripts used in various stages of the research are available. 
 
-Under 'survey' a PDF export of the survey is available.
+Under 'survey' an export of the survey is available.
 
 Under 'corpus' the set of stimuli and the annotated dataset are available.
